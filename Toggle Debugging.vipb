@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-07-14 14:58:54" Modified_Date="2019-07-16 18:04:10" Creator="Thomas" Comments="" ID="81392f4f2bc5fee1163003c7d1814e8d">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-07-14 14:58:54" Modified_Date="2019-08-09 10:55:45" Creator="Thomas" Comments="" ID="97d0c067939c1b9f38b547c81bd6114e">
   <Library_General_Settings>
     <Package_File_Name>Tom_McQuillan_lib_Toggle_Debugging</Package_File_Name>
-    <Library_Version>1.0.0.7</Library_Version>
+    <Library_Version>1.0.0.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -123,6 +123,9 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>tom_mcquillan_lib_toggle_debugging-1.0.0.6.vip</Path>
+      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
